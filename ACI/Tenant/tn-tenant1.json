@@ -1,0 +1,9 @@
+        {
+            "fvTenant": {
+                "attributes": {
+                    "descr": "created with Postman",
+                    "dn": "uni/tn-tenant1",
+                    "name": "tenant1",
+                }
+            }
+        }
